@@ -2,7 +2,7 @@
 
 A green-bubble, fully accessible fan club website for That Android Guy, Parker Burton, with a fan counter that climbs forever.
 
-**Live demo:** https://parkerburton-fanclub.sites.tab.bot/
+**Live demo:** https://2three1y.github.io/parkerburton-fanclub/
 
 ## Features
 
